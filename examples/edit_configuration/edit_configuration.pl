@@ -223,6 +223,7 @@ while(<FH>)
 {
 $config1.=$_;
 }
+print $config1;
 close(FH);
 
 $queryargs{'config-text'} = '<configuration-text>' . $config1
