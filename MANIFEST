@@ -16,3 +16,4 @@ examples/edit_configuration/edit_configuration.pl
 examples/edit_configuration/config.txt
 examples/edit_configuration/config.xml
 
+META.yml                                 Module meta-data (added by MakeMaker)
